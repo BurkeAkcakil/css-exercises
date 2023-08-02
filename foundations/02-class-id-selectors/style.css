@@ -1,0 +1,21 @@
+.main,
+.second {
+    background-color: pink;
+    font: "Verdana", "DejaVu Sans", sans-serif;
+    color: black;
+}
+
+.second {
+    font-size: 24px;
+}
+
+#no2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#no4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
